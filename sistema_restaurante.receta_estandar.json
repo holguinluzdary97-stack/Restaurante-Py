@@ -1,0 +1,77 @@
+[{
+  "_id": "REC001",
+  "nombre": "Bandeja paisa",
+  "platillo": "Bandeja paisa",
+  "ingredientes": [
+    "Frijoles",
+    "Arroz",
+    "Carne molida",
+    "Chicharron",
+    "Huevo",
+    "Platano"
+  ],
+  "porciones": 1,
+  "tiempo_preparacion": 45,
+  "costo": 18000
+},
+{
+  "_id": "REC002",
+  "nombre": "Hamburguesa especial",
+  "platillo": "Hamburguesa especial",
+  "ingredientes": [
+    "Pan",
+    "Carne de res",
+    "Queso",
+    "Lechuga",
+    "Tomate",
+    "Salsa"
+  ],
+  "porciones": 1,
+  "tiempo_preparacion": 20,
+  "costo": 12000
+},
+{
+  "_id": "REC003",
+  "nombre": "Pizza familiar",
+  "platillo": "Pizza familiar",
+  "ingredientes": [
+    "Harina",
+    "Queso",
+    "Tomate",
+    "Jamon",
+    "Champiñones"
+  ],
+  "porciones": 4,
+  "tiempo_preparacion": 35,
+  "costo": 25000
+},
+{
+  "_id": "REC004",
+  "nombre": "Lasaña",
+  "platillo": "Lasaña",
+  "ingredientes": [
+    "Pasta",
+    "Carne molida",
+    "Queso",
+    "Salsa de tomate",
+    "Leche"
+  ],
+  "porciones": 2,
+  "tiempo_preparacion": 40,
+  "costo": 16000
+},
+{
+  "_id": "REC005",
+  "nombre": "Pollo a la plancha",
+  "platillo": "Pollo a la plancha",
+  "ingredientes": [
+    "Pechuga de pollo",
+    "Sal",
+    "Ajo",
+    "Aceite",
+    "Ensalada"
+  ],
+  "porciones": 1,
+  "tiempo_preparacion": 25,
+  "costo": 11000
+}]

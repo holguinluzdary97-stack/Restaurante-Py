@@ -1,0 +1,45 @@
+[{
+  "_id": "MP001",
+  "nombre": "Arroz",
+  "categoria": "Granos",
+  "cantidad": 50,
+  "unidad": "Kilogramos",
+  "proveedor": "Distribuidora Central",
+  "precio_unitario": 4000
+},
+{
+  "_id": "MP002",
+  "nombre": "Carne de res",
+  "categoria": "Carnes",
+  "cantidad": 30,
+  "unidad": "Kilogramos",
+  "proveedor": "Carnes El Paisa",
+  "precio_unitario": 25000
+},
+{
+  "_id": "MP003",
+  "nombre": "Papa",
+  "categoria": "Verduras",
+  "cantidad": 40,
+  "unidad": "Kilogramos",
+  "proveedor": "Frutas y Verduras La 30",
+  "precio_unitario": 3000
+},
+{
+  "_id": "MP004",
+  "nombre": "Aceite",
+  "categoria": "Abarrotes",
+  "cantidad": 20,
+  "unidad": "Litros",
+  "proveedor": "Comercializadora El Sol",
+  "precio_unitario": 9000
+},
+{
+  "_id": "MP005",
+  "nombre": "Pollo",
+  "categoria": "Carnes",
+  "cantidad": 25,
+  "unidad": "Kilogramos",
+  "proveedor": "Avicola San Jose",
+  "precio_unitario": 14000
+}]

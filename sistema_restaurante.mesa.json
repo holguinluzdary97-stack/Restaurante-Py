@@ -1,0 +1,35 @@
+[{
+  "_id": "MES001",
+  "numero_mesa": 1,
+  "capacidad": 4,
+  "ubicacion": "Salon principal",
+  "estado": "Disponible"
+},
+{
+  "_id": "MES002",
+  "numero_mesa": 2,
+  "capacidad": 2,
+  "ubicacion": "Salon principal",
+  "estado": "Ocupada"
+},
+{
+  "_id": "MES003",
+  "numero_mesa": 3,
+  "capacidad": 6,
+  "ubicacion": "Terraza",
+  "estado": "Disponible"
+},
+{
+  "_id": "MES004",
+  "numero_mesa": 4,
+  "capacidad": 4,
+  "ubicacion": "Terraza",
+  "estado": "Reservada"
+},
+{
+  "_id": "MES005",
+  "numero_mesa": 5,
+  "capacidad": 8,
+  "ubicacion": "Salon principal",
+  "estado": "Disponible"
+}]

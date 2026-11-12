@@ -1,0 +1,64 @@
+[{
+  "_id": "ORD001",
+  "cliente": "Carlos Perez",
+  "numero_mesa": 1,
+  "productos": [
+    "Bandeja paisa",
+    "Jugo natural"
+  ],
+  "cantidad": 2,
+  "total": 45000,
+  "estado": "Entregado",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "ORD002",
+  "cliente": "Maria Rodriguez",
+  "numero_mesa": 2,
+  "productos": [
+    "Hamburguesa",
+    "Gaseosa"
+  ],
+  "cantidad": 2,
+  "total": 35000,
+  "estado": "En preparacion",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "ORD003",
+  "cliente": "Andres Gomez",
+  "numero_mesa": 3,
+  "productos": [
+    "Pizza familiar"
+  ],
+  "cantidad": 1,
+  "total": 55000,
+  "estado": "Entregado",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "ORD004",
+  "cliente": "Laura Martinez",
+  "numero_mesa": 4,
+  "productos": [
+    "Lasaña",
+    "Jugo de naranja"
+  ],
+  "cantidad": 2,
+  "total": 40000,
+  "estado": "Pendiente",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "ORD005",
+  "cliente": "Santiago Torres",
+  "numero_mesa": 5,
+  "productos": [
+    "Pollo a la plancha",
+    "Agua"
+  ],
+  "cantidad": 2,
+  "total": 42000,
+  "estado": "En preparacion",
+  "fecha": "2026-11-12"
+}]

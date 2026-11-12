@@ -1,0 +1,65 @@
+[{
+  "_id": "PED001",
+  "cliente": "Carlos Perez",
+  "productos": [
+    "Bandeja paisa",
+    "Jugo natural"
+  ],
+  "cantidad": 2,
+  "total": 45000,
+  "estado": "Entregado",
+  "tipo_pedido": "En mesa",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "PED002",
+  "cliente": "Maria Rodriguez",
+  "productos": [
+    "Hamburguesa",
+    "Gaseosa"
+  ],
+  "cantidad": 2,
+  "total": 35000,
+  "estado": "En preparacion",
+  "tipo_pedido": "Domicilio",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "PED003",
+  "cliente": "Andres Gomez",
+  "productos": [
+    "Pizza familiar",
+    "Limonada"
+  ],
+  "cantidad": 2,
+  "total": 55000,
+  "estado": "Entregado",
+  "tipo_pedido": "En mesa",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "PED004",
+  "cliente": "Laura Martinez",
+  "productos": [
+    "Lasana",
+    "Jugo de naranja"
+  ],
+  "cantidad": 2,
+  "total": 40000,
+  "estado": "Pendiente",
+  "tipo_pedido": "Para llevar",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "PED005",
+  "cliente": "Santiago Torres",
+  "productos": [
+    "Pollo a la plancha",
+    "Agua"
+  ],
+  "cantidad": 2,
+  "total": 42000,
+  "estado": "En preparacion",
+  "tipo_pedido": "Domicilio",
+  "fecha": "2026-11-12"
+}]

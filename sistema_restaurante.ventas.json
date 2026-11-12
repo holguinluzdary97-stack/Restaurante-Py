@@ -1,0 +1,74 @@
+[{
+  "_id": "VEN001",
+  "numero_factura": "FAC001",
+  "cliente": "Carlos Perez",
+  "productos": [
+    "Bandeja paisa",
+    "Jugo natural"
+  ],
+  "cantidad": 2,
+  "subtotal": 35000,
+  "iva": 6650,
+  "total": 41650,
+  "metodo_pago": "Efectivo",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "VEN002",
+  "numero_factura": "FAC002",
+  "cliente": "Maria Rodriguez",
+  "productos": [
+    "Hamburguesa especial",
+    "Gaseosa"
+  ],
+  "cantidad": 2,
+  "subtotal": 28000,
+  "iva": 5320,
+  "total": 33320,
+  "metodo_pago": "Tarjeta",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "VEN003",
+  "numero_factura": "FAC003",
+  "cliente": "Andres Gomez",
+  "productos": [
+    "Pizza familiar"
+  ],
+  "cantidad": 1,
+  "subtotal": 45000,
+  "iva": 8550,
+  "total": 53550,
+  "metodo_pago": "Transferencia",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "VEN004",
+  "numero_factura": "FAC004",
+  "cliente": "Laura Martinez",
+  "productos": [
+    "Lasana",
+    "Jugo natural"
+  ],
+  "cantidad": 2,
+  "subtotal": 32000,
+  "iva": 6080,
+  "total": 38080,
+  "metodo_pago": "Efectivo",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "VEN005",
+  "numero_factura": "FAC005",
+  "cliente": "Santiago Torres",
+  "productos": [
+    "Pollo a la plancha",
+    "Agua"
+  ],
+  "cantidad": 2,
+  "subtotal": 26000,
+  "iva": 4940,
+  "total": 30940,
+  "metodo_pago": "Tarjeta",
+  "fecha": "2026-11-12"
+}]

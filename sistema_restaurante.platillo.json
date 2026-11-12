@@ -1,0 +1,69 @@
+[{
+  "_id": "PLA001",
+  "nombre": "Bandeja paisa",
+  "categoria": "Plato fuerte",
+  "ingredientes": [
+    "Arroz",
+    "Frijoles",
+    "Carne",
+    "Chicharron",
+    "Huevo",
+    "Platano"
+  ],
+  "precio": 30000,
+  "disponible": true
+},
+{
+  "_id": "PLA002",
+  "nombre": "Hamburguesa especial",
+  "categoria": "Comida rapida",
+  "ingredientes": [
+    "Pan",
+    "Carne",
+    "Queso",
+    "Lechuga",
+    "Tomate"
+  ],
+  "precio": 25000,
+  "disponible": true
+},
+{
+  "_id": "PLA003",
+  "nombre": "Pizza familiar",
+  "categoria": "Comida rapida",
+  "ingredientes": [
+    "Masa",
+    "Queso",
+    "Jamon",
+    "Tomate",
+    "Champiñones"
+  ],
+  "precio": 55000,
+  "disponible": true
+},
+{
+  "_id": "PLA004",
+  "nombre": "Lasana",
+  "categoria": "Plato fuerte",
+  "ingredientes": [
+    "Pasta",
+    "Carne molida",
+    "Queso",
+    "Salsa de tomate"
+  ],
+  "precio": 28000,
+  "disponible": true
+},
+{
+  "_id": "PLA005",
+  "nombre": "Pollo a la plancha",
+  "categoria": "Plato fuerte",
+  "ingredientes": [
+    "Pollo",
+    "Arroz",
+    "Ensalada",
+    "Papa"
+  ],
+  "precio": 27000,
+  "disponible": true
+}]

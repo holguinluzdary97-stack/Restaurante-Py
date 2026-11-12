@@ -1,0 +1,45 @@
+[{
+  "_id": "INV001",
+  "producto": "Arroz",
+  "categoria": "Granos",
+  "cantidad": 50,
+  "unidad": "Kilogramos",
+  "precio_unitario": 4000,
+  "stock_minimo": 10
+},
+{
+  "_id": "INV002",
+  "producto": "Carne de res",
+  "categoria": "Carnes",
+  "cantidad": 30,
+  "unidad": "Kilogramos",
+  "precio_unitario": 25000,
+  "stock_minimo": 5
+},
+{
+  "_id": "INV003",
+  "producto": "Papa",
+  "categoria": "Verduras",
+  "cantidad": 40,
+  "unidad": "Kilogramos",
+  "precio_unitario": 3000,
+  "stock_minimo": 10
+},
+{
+  "_id": "INV004",
+  "producto": "Aceite",
+  "categoria": "Abarrotes",
+  "cantidad": 20,
+  "unidad": "Litros",
+  "precio_unitario": 9000,
+  "stock_minimo": 5
+},
+{
+  "_id": "INV005",
+  "producto": "Pollo",
+  "categoria": "Carnes",
+  "cantidad": 25,
+  "unidad": "Kilogramos",
+  "precio_unitario": 14000,
+  "stock_minimo": 5
+}]

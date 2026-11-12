@@ -1,0 +1,42 @@
+[{
+  "_id": "CLI001",
+  "nombre": "Carlos Perez",
+  "telefono": "3001234567",
+  "correo": "carlos@gmail.com"
+},
+{
+  "_id": "CLI002",
+  "nombre": "Maria Rodriguez",
+  "telefono": "3014567890",
+  "correo": "maria@gmail.com"
+},
+{
+  "_id": "CLI003",
+  "nombre": "Andres Gomez",
+  "telefono": "3025678901",
+  "correo": "andres@gmail.com"
+},
+{
+  "_id": "CLI004",
+  "nombre": "Laura Martinez",
+  "telefono": "3004567890",
+  "correo": "laura@gmail.com"
+},
+{
+  "_id": "CLI005",
+  "nombre": "Santiago Torres",
+  "telefono": "3005678901",
+  "correo": "santiago@gmail.com"
+},
+{
+  "_id": "CLI006",
+  "nombre": "2",
+  "telefono": "",
+  "correo": ""
+},
+{
+  "_id": "CLI007",
+  "nombre": "pedro lopez",
+  "telefono": "3001234567",
+  "correo": "pedro@gmail.com"
+}]

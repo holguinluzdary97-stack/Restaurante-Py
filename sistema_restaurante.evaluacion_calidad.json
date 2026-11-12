@@ -1,0 +1,40 @@
+[{
+  "_id": "EVA001",
+  "cliente": "Carlos Perez",
+  "producto": "Bandeja paisa",
+  "calificacion": 5,
+  "observacion": "Excelente sabor y presentación",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "EVA002",
+  "cliente": "Maria Rodriguez",
+  "producto": "Hamburguesa especial",
+  "calificacion": 4,
+  "observacion": "Muy buen servicio",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "EVA003",
+  "cliente": "Andres Gomez",
+  "producto": "Pizza familiar",
+  "calificacion": 5,
+  "observacion": "Producto delicioso",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "EVA004",
+  "cliente": "Laura Martinez",
+  "producto": "Lasaña",
+  "calificacion": 3,
+  "observacion": "El servicio fue un poco lento",
+  "fecha": "2026-11-12"
+},
+{
+  "_id": "EVA005",
+  "cliente": "Santiago Torres",
+  "producto": "Pollo a la plancha",
+  "calificacion": 4,
+  "observacion": "Buena calidad y atención",
+  "fecha": "2026-11-12"
+}]

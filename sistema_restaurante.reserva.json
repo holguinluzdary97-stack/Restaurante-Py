@@ -1,0 +1,45 @@
+[{
+  "_id": "RES001",
+  "cliente": "Carlos Perez",
+  "numero_mesa": 1,
+  "fecha": "2026-11-12",
+  "hora": "12:00",
+  "cantidad_personas": 2,
+  "estado": "Confirmada"
+},
+{
+  "_id": "RES002",
+  "cliente": "Maria Rodriguez",
+  "numero_mesa": 2,
+  "fecha": "2026-11-12",
+  "hora": "13:00",
+  "cantidad_personas": 4,
+  "estado": "Confirmada"
+},
+{
+  "_id": "RES003",
+  "cliente": "Andres Gomez",
+  "numero_mesa": 3,
+  "fecha": "2026-11-13",
+  "hora": "18:00",
+  "cantidad_personas": 3,
+  "estado": "Pendiente"
+},
+{
+  "_id": "RES004",
+  "cliente": "Laura Martinez",
+  "numero_mesa": 4,
+  "fecha": "2026-11-13",
+  "hora": "19:00",
+  "cantidad_personas": 5,
+  "estado": "Confirmada"
+},
+{
+  "_id": "RES005",
+  "cliente": "Santiago Torres",
+  "numero_mesa": 5,
+  "fecha": "2026-11-14",
+  "hora": "20:00",
+  "cantidad_personas": 2,
+  "estado": "Pendiente"
+}]

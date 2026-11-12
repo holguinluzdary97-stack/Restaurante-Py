@@ -1,0 +1,35 @@
+[{
+  "_id": "EMP001",
+  "nombre": "Jorge Ramirez",
+  "cargo": "Administrador",
+  "telefono": "3101234567",
+  "salario": 2500000
+},
+{
+  "_id": "EMP002",
+  "nombre": "Daniela Lopez",
+  "cargo": "Mesera",
+  "telefono": "3112345678",
+  "salario": 1500000
+},
+{
+  "_id": "EMP003",
+  "nombre": "Andres Castro",
+  "cargo": "Chef",
+  "telefono": "3123456789",
+  "salario": 2200000
+},
+{
+  "_id": "EMP004",
+  "nombre": "Camila Torres",
+  "cargo": "Cajera",
+  "telefono": "3134567890",
+  "salario": 1600000
+},
+{
+  "_id": "EMP005",
+  "nombre": "Felipe Martinez",
+  "cargo": "Auxiliar de cocina",
+  "telefono": "3145678901",
+  "salario": 1700000
+}]
